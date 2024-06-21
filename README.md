@@ -1,4 +1,5 @@
-### Restaurant Management System - Admin Module
+---
+### Restaurant Management System.
 
 #### Overview
 This Java program implements an administrative module for a restaurant management system using Object-Oriented Programming (OOP) principles. It facilitates menu management, customer interaction, and ensures secure access and data handling.
@@ -12,9 +13,9 @@ This Java program implements an administrative module for a restaurant managemen
 - **Persistent Data Storage**: Customer information is stored in `cusDataFile.txt` for login and registration purposes.
 
 #### Object-Oriented Design
-- **Classes**: The system is structured into classes such as 'Admin', Customer, Menu, Dish, and Bill, each encapsulating specific functionalities and data related to its role.
+- **Classes**: The system is structured into classes such as `Admin`, `Customer`, `Menu`, `Dish`, and `Bill`, each encapsulating specific functionalities and data related to its role.
 
-- **Inheritance and Composition**: Classes like Admin and Customer inherit from a base User class, promoting code reuse and maintaining a consistent user interface.
+- **Inheritance and Composition**: Classes like `Admin` and `Customer` inherit from a base `User` class, promoting code reuse and maintaining a consistent user interface.
 
 - **Encapsulation**: Data members of classes are private, accessible through public methods, ensuring data integrity and modularity.
 #### Usage
