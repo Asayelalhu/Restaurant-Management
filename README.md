@@ -36,13 +36,13 @@ This Java program implements an administrative module for a restaurant managemen
 - `Menu.java`: Menu management including adding new dishes and displaying the menu.
 - `Dish.java`: Class representing individual dishes with name and price.
 - `Bill.java`: Handles customer billing, including itemized orders and total price.
-- `cusDataFile.txt`: Text file storing customer registration data.
-
-## Developer
-- Developed by [Asayel ALhuthali]
+- `cusDataFile.txt`: Text file storing customer registration data.]
 
 #### Notes
 - Ensure `cusDataFile.txt` is accessible and contains valid customer data.
 - Java Runtime Environment (JRE) is required to execute the application.
+
+## Author
+- Created by [Asayel Alhuthali]
 
 ---
