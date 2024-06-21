@@ -1,10 +1,10 @@
 ---
-### Restaurant Management System.
+# Restaurant Management System.
 
-#### Overview
+## Overview
 This Java program implements an administrative module for a restaurant management system using Object-Oriented Programming (OOP) principles. It facilitates menu management, customer interaction, and ensures secure access and data handling.
 
-#### Features
+## Features
 - **Admin Login**: Authenticate using predefined credentials (`admin@hotmail.com`, `2023`), with additional key password verification.
 - **Customer Registration**: New customers can sign up by providing their details.
 - **Menu Management**: Admins can add new dishes to the restaurant menu dynamically.
@@ -12,13 +12,13 @@ This Java program implements an administrative module for a restaurant managemen
 - **Customer Allergies**: Customers are prompted about allergies to ensure safe food selection.
 - **Persistent Data Storage**: Customer information is stored in `cusDataFile.txt` for login and registration purposes.
 
-#### Object-Oriented Design
+## Object-Oriented Design
 - **Classes**: The system is structured into classes such as `Admin`, `Customer`, `Menu`, `Dish`, and `Bill`, each encapsulating specific functionalities and data related to its role.
 
 - **Inheritance and Composition**: Classes like `Admin` and `Customer` inherit from a base `User` class, promoting code reuse and maintaining a consistent user interface.
 
 - **Encapsulation**: Data members of classes are private, accessible through public methods, ensuring data integrity and modularity.
-#### Usage
+## Usage
 1. **Setup:**
    - Compile: `javac Main.java`
    - Run: `java Main`
@@ -29,7 +29,7 @@ This Java program implements an administrative module for a restaurant managemen
 3. **Customer Functions:**
    - Customers can log in, add dishes to their table from the menu, view and pay their bill, and exit.
 
-#### File Structure
+## File Structure
 - `Main.java`: Main entry point and control logic of the application.
 - `Admin.java`: Admin-specific functionalities and data handling.
 - `Customer.java`: Customer-specific data and operations.
@@ -38,7 +38,7 @@ This Java program implements an administrative module for a restaurant managemen
 - `Bill.java`: Handles customer billing, including itemized orders and total price.
 - `cusDataFile.txt`: Text file storing customer registration data.
 
-#### Developer
+## Developer
 - Developed by [Asayel ALhuthali]
 
 #### Notes
