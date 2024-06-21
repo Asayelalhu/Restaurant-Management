@@ -1,12 +1,4 @@
 package edu.uqu.cs;
-/*
- * Project Name: Restaurant management
- * Team Members: Asayel Alhothali. Renad Alharthi. Aliyah Alabdali. Asayel Alharbi. Rahaf Almalki. Dhai Alhashmi
- * Section Number: 7
- * CS 1312
- */
-
-
 import java.io.*;
 import java.util.*;
 
