@@ -38,7 +38,7 @@ This Java program implements an administrative module for a restaurant managemen
 - `Bill.java`: Handles customer billing, including itemized orders and total price.
 - `cusDataFile.txt`: Text file storing customer registration data.]
 
-#### Notes
+## Notes
 - Ensure `cusDataFile.txt` is accessible and contains valid customer data.
 - Java Runtime Environment (JRE) is required to execute the application.
 
